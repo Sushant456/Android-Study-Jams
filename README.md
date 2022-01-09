@@ -23,7 +23,7 @@ Features
 <li>Delete Note</li>
 <li>Edit Note</li>
 <li>Search Note</li>
-<li>Change colour of the Note</li>
+<li>Change colour of the Note</li></br>
 
 
 
