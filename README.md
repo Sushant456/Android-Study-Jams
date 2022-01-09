@@ -47,9 +47,9 @@ You can access the app [https://drive.google.com/drive/folders/197n3qtS0go0OyuaD
 
 Notezz allows us :
 
-i. Store all notes and important information digitally</br>
+i. Store all notes and important information digitally.</br>
 ii. Type notes on the device of choice just as one would using pen and paper.</br>
-iii. Add images, links to their notes to enrich the meaning and context. </br>
+iii. Add images, links to the notes to enrich the meaning and context. </br>
 iv. Delete note when not in use.</br>
 
 
