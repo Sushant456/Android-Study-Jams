@@ -1,5 +1,5 @@
 # Android Study Jams
-Notezz
+**NOTEZZ**
 
 ⭐ **Problem Statement:**
 
