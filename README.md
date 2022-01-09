@@ -14,5 +14,11 @@ Functionality & Concepts used :
 
 Application Link & Future Scope :
 
+Notezz allows us :
+
+i. Store all notes and important information digitally
+ii. Type notes on the device of choice just as one would using pen and paper.
+iii. Add images, links to their notes to enrich the meaning and context. 
+iv. Delete note when not in use.
 
 
