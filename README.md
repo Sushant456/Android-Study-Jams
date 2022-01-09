@@ -5,7 +5,11 @@ Problem Statement:
 
 
 Proposed Solution :
-![Screenshot_20220109-221911](https://user-images.githubusercontent.com/83875053/148693074-005502ef-cb4a-4ccf-be35-8b65880bb23e.jpg)
+
+
+
+![image](https://user-images.githubusercontent.com/83875053/148693364-a9eac820-d7d0-4263-ab1e-d6cddf91cf14.png)
+
 
 
 Functionality & Concepts used :
