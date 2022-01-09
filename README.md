@@ -1,7 +1,7 @@
 # Android Study Jams
 <h2>Notezz</h2>
 
-⭐ **_Problem Statement:_**
+⭐ **Problem Statement:**
 
 Note-taking is one of the most overlooked virtual activities in
 today's digital age. Various companies are constantly adding new features to note-taking. Have you ever considered building your own note-taking application? So, we are developing a app which can perform note-taking activity.
