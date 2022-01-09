@@ -1,16 +1,16 @@
 # Android Study Jams
 Notezz
 
-# Problem Statement:
+Problem Statement:
 
 
-# Proposed Solution :
+Proposed Solution :
 
 
-# Functionality & Concepts used :
+Functionality & Concepts used :
 
 
-# Application Link & Future Scope :
+Application Link & Future Scope :
 
 
 
