@@ -1,5 +1,5 @@
 # Android Study Jams
-<h1>Notezz</h1>
+<h2>Notezz</h2>
 
 ⭐ **Problem Statement:**
 
