@@ -3,12 +3,27 @@ Notezz
 
 **Problem Statement:**
 
+Note-taking is one of the most overlooked virtual activities in
+today's digital age. Various companies are constantly adding new features to note-taking. Have you ever considered building your own note-taking application? So, we are developing a app which can perform note-taking activity.
+
+
 
 
 
 
 
 **Proposed Solution :**
+
+Notezz app is used for making short text notes, update when you need them, and trash when you are done.It can be used for various functions as you can add images, links in this app, some important notes for future reference, etc. The app is very useful in some cases like when you want quick access to the notes. 
+
+Proudly 💪 made in Kotlin
+
+Features
+<li>Add Note</li>
+<li>Delete Note</li>
+<li>Edit Note</li>
+<li>Search Note</li>
+<li>Change colour of the Note</li>
 
 
 
