@@ -33,6 +33,7 @@ Features
 
 
 ⭐ **Functionality & Concepts used :**
+
 Room:- Room is a part of the Android Architecture components which provides an abstraction layer over SQlite which allows for a more robust database acces while still providing the full power of SQlite.
 
 com.makeramen:roundedimageview:- A fast ImageView (and Drawable) that supports rounded corners (and ovals or circles) based on the original example from Romain Guy. It supports many additional features including ovals, rounded rectangles, ScaleTypes and TileModes.
